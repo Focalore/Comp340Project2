@@ -53,5 +53,5 @@ class GoombaAdv(Goomba):
 
 #IM going to be honest, im running out of time for this and i have made it work. I repoened the project and made a change to something 
 # that change in turn somehow completely broke the whole of the code and i for the life of me cannot figure out how to fix whatever this error is. 
-#hours wasted: 4 (as of 11:00 pm on due date, i have made it work. thank god, but i do hate dingle character mistakes. sorry i lost all my comments in the mess)
+#hours wasted: 4 (as of 11:00 pm on due date, i have made it work. thank god, but i do hate single character mistakes. sorry i lost all my comments in the mess)
 #hours not wasted: 1.5 (when i got it workign)
